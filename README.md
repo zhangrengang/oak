@@ -1,6 +1,7 @@
 # assembly
 ### from HiFi + HiC
 assembly/assembly-hifi.sh
+
 assembly/assembly-hic.sh
 
 ### from ONT
@@ -15,9 +16,13 @@ annotation/anno-repeat.sh
 
 ### gene annotation
 annotation/assembly-transcripts.sh
+
 annotation/anno-pasa.sh
+
 annotation/anno-maker.sh
+
 annotation/anno-tesorter.sh
+
 annotation/anno-evm.sh
 
 ### non-coding RNAs
